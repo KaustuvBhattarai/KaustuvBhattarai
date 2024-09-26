@@ -16,8 +16,6 @@ Hi there! I'm **Kaustuv Bhattarai**, a passionate software engineer and tech ent
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustuvbhattarai&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaustuvbhattarai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustuvbhattarai&show_icons=true&theme=dark&locale=en" alt="kaustuvbhattarai" /></p>
-
 ![github-snake](https://github.com/user-attachments/assets/5860285d-6009-4e91-aef7-97753fbc5ca4)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories. 
