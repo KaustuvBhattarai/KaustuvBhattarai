@@ -3,13 +3,15 @@
 
 ##  About Me
 
-Hi there! I'm **Kaustuv Bhattarai**, a passionate software engineer and tech enthusiast. I specialize in creating innovative solutions through code and love diving into new technologies and challenges. My interests include data science, computer vision and machine learning.
+Data Scientist and Machine Learning Engineer specializing in the architecture of scalable, end-to-end data pipelines and the deployment of sophisticated predictive models. Currently pursuing a degree in Computer Technology at Kathmandu Engineering College, I focus on bridging the gap between raw data and clinical insights through high-impact healthcare analytics and automated ML workflows.
 
-- 🔭 I’m currently working on exciting projects in data.
-- 🌱 I’m learning more about machine learning and deep learning techniques.
-- 👯 I’m looking to collaborate on projects related to AI and machine learning.
-- 💬 Ask me about my work or any tech-related queries.
-- 📫 How to reach me: [My Email](mailto:meet.kaustuv@gmail.com) 
+Technical Toolkit
+
+- Languages & Data: Python (Pandas, NumPy, Scikit-learn) , SQL (MSSQL, MySQL) , C++.
+- Machine Learning: TensorFlow, Keras, PyTorch Geometric, OpenCV.
+- Backend & Cloud: Firebase/Firestore, API Integration, Database Design (DBMS), Docker.
+- Tools & Frameworks: Git/GitHub, Linux/Terminal, Streamlit, Matplotlib, Flutter/Dart.
+- Design: UI/UX Auditing, Blender, Adobe Creative Suite.
 
 
 ##  GitHub Stats
