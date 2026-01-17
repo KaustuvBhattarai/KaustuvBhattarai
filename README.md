@@ -3,7 +3,7 @@
 
 ##  About Me
 
-Data Scientist and Machine Learning Engineer specializing in the architecture of scalable, end-to-end data pipelines and the deployment of sophisticated predictive models. Currently pursuing a degree in Computer Technology at Kathmandu Engineering College, I focus on bridging the gap between raw data and clinical insights through high-impact healthcare analytics and automated ML workflows.
+Data Scientist and Machine Learning Engineer specializing in the architecture of scalable, end-to-end data pipelines and the deployment of sophisticated predictive models. Currently pursuing a degree in Computer Engineering at Kathmandu Engineering College, I focus on bridging the gap between raw data and clinical insights through high-impact healthcare analytics and automated ML workflows.
 
 Technical Toolkit
 
