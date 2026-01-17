@@ -13,14 +13,6 @@ Technical Toolkit
 - Tools & Frameworks: Git/GitHub, Linux/Terminal, Streamlit, Matplotlib, Flutter/Dart.
 - Design: UI/UX Auditing, Blender, Adobe Creative Suite.
 
-
-##  GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustuvbhattarai&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaustuvbhattarai" /></p>
-
-![github-snake](https://github.com/user-attachments/assets/5860285d-6009-4e91-aef7-97753fbc5ca4)
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories. 
-Feel free reach out if you’d like to collaborate or learn more about my work. **[Encom Website](https://www.encom.rf.gd)** | **[My blog](https://www.kaustuvbhattarai.wordpress.com/blog)**
+**I welcome inquiries regarding technical collaborations, open-source contributions, or deep dives into healthcare analytics. Feel free to reach out to discuss potential synergies or to review my latest research and deployments. **[LinkedIn](https://www.linkedin.com/in/kaustuv-bhattarai-082772338/)** | **[My Email](meet.kaustuv@gmail.com)**
 
 
