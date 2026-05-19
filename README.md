@@ -1,17 +1,32 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/8550425d-cdb5-49a7-a2ef-5d92cf89e46e)
 
-##  About Me
+# About Me
 
-Data Scientist and Machine Learning Engineer specializing in the architecture of scalable, end-to-end data pipelines and the deployment of sophisticated predictive models. Currently pursuing a degree in Computer Engineering at Kathmandu Engineering College, I focus on bridging the gap between raw data and clinical insights through high-impact healthcare analytics and automated ML workflows.
+AI Engineer specializing in production-grade intelligent systems, with a focus on agentic workflows, retrieval-based architectures, and scalable ML infrastructure. Experienced in building end-to-end AI systems that bridge model development, backend engineering, and production deployment.
 
-Technical Toolkit
+Strong interest in real-world ML systems involving noisy data, low-latency constraints, and continuous evaluation loops across production environments.
 
-- Languages & Data: Python (Pandas, NumPy, Scikit-learn) , SQL (MSSQL, MySQL) , C++.
-- Machine Learning: TensorFlow, Keras, PyTorch Geometric, OpenCV.
-- Backend & Cloud: Firebase/Firestore, API Integration, Database Design (DBMS), Docker.
-- Tools & Frameworks: Git/GitHub, Linux/Terminal, Streamlit, Matplotlib, Flutter/Dart.
-- Design: UI/UX Auditing, Blender, Adobe Creative Suite.
+---
+
+# Technical Skills
+
+## LLM & AI Systems
+LangGraph, LangChain, RAG pipelines, prompt engineering, LLM APIs (OpenAI, Anthropic, Gemini), agentic workflows
+
+## Vector Search & Retrieval
+ChromaDB, FAISS, semantic search, embeddings, hybrid retrieval, metadata filtering
+
+## Backend & Systems
+FastAPI, REST APIs, PostgreSQL, MongoDB Atlas, React, Next.js
+
+## DevOps & MLOps
+Docker, GitHub Actions CI/CD, MLflow, DVC, AWS EC2, Vercel
+
+## Languages & Tools
+Python 3.11+, SQL, Linux, Git, Bash, Jupyter, Dart/Flutter
+
+---
 
 **I welcome inquiries regarding technical collaborations, open-source contributions, or deep dives into healthcare analytics. 
 Feel free to reach out to discuss potential synergies or to review my latest research and deployments.**
